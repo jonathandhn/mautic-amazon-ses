@@ -2,12 +2,12 @@
     "name": "jonathandhn/mautic-amazon-ses",
     "description": "Mautic 5/6 plugin that provides Amazon SES as an email transport and callback to process bounces",
     "type": "mautic-plugin",
-"require": {
-    "php": ">=8.1.0",
-    "mautic/core-lib": "^5.1 || ^6.0",
-    "symfony/amazon-mailer": "^6.4",
-    "teknasyon-teknoloji/aws-ses-notification": "^2.0"
-}
+    "require": {
+        "php": ">=8.1.0",
+        "mautic/core-lib": "^5.1 || ^6.0",
+        "symfony/amazon-mailer": "^6.4",
+        "teknasyon-teknoloji/aws-ses-notification": "^2.0"
+    },
     "license": "GPL-3.0-or-later",
     "keywords": [
         "mautic",
@@ -25,8 +25,8 @@
             "email": "pabloveintimilla@gmail.com"
         },
         {
-    "name": "Jonathan Dahan",
-    "email": "jonathan@dhn.one"
+            "name": "Jonathan Dahan",
+            "email": "jonathan@dhn.one"
         }
     ],
     "minimum-stability": "dev"

@@ -1,5 +1,5 @@
 {
-    "name": "pabloveintimilla/mautic-amazon-ses",
+    "name": "jonathandhn/mautic-amazon-ses",
     "description": "Mautic 5/6 plugin that provides Amazon SES as an email transport and callback to process bounces",
     "type": "mautic-plugin",
     "require": {
@@ -23,6 +23,10 @@
         {
             "name": "Pablo Veintimilla",
             "email": "pabloveintimilla@gmail.com"
+        },
+        {
+    "name": "Jonathan Dahan",
+    "email": "jonathan@dhn.one"
         }
     ],
     "minimum-stability": "dev"
